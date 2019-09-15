@@ -87,4 +87,4 @@ func filter(text: String, with replaceChar: String = "*") -> FilterResult {
 ```
 
 ## 三、完整代码（含敏感词库）
-[Swift 敏感词过滤]()
+[Swift 敏感词过滤](https://github.com/zhixingxi/SensitiveWord)
